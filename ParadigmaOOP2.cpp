@@ -33,6 +33,7 @@ int main() {
 	obyek->pesan();
 
 	obyek = &b;
+	obyek->pesan();
 }
 
 
