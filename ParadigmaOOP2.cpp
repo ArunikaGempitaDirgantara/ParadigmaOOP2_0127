@@ -25,7 +25,7 @@ public:
 };
 
 int main() {
-
+	seseorang* obyek;
 }
 
 
